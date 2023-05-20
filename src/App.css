@@ -1,0 +1,18 @@
+.container{
+  width:25%;
+  margin:0 auto;
+}
+
+h1, h2{
+  text-align: center;
+}
+
+.buttongroup{
+  text-align: center;
+}
+
+button{
+  padding:10px 22px;
+  margin:0 5px;
+  text-transform: uppercase;
+}
